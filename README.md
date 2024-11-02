@@ -1,4 +1,4 @@
-1. Fashion Blog
+# Fashion Blog
 
 Welcome to the Fashion Blog project!
 Access the Fashion Blog
