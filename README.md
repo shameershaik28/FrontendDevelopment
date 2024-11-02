@@ -1,4 +1,4 @@
-# Fashion Blog
+# 1. Fashion Blog
 
 Welcome to the **Fashion Blog** project! 
 ## Access the Fashion Blog
